@@ -1,0 +1,3 @@
+This is an example file 
+to read the file using pyton
+thesing ...... testing ....... testing ...........
